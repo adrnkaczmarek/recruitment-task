@@ -1,0 +1,6 @@
+<configuration>
+    <include resource="org/springframework/boot/logging/logback/base.xml"/>
+
+    <logger name="com.jawas.githubrestservice" level="DEBUG"/>
+    <logger name="org.springframework" level="DEBUG"/>
+</configuration>
