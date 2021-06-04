@@ -18,7 +18,7 @@
 		<java.version>10</java.version>
 		<lombok.version>1.18.8</lombok.version>
 		<tomcat.version>9.0.22</tomcat.version>
-		<http.client.version>4.5.9</http.client.version>
+		<http.client.version>4.5.13</http.client.version>
 	</properties>
 
 	<dependencies>
